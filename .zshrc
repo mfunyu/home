@@ -33,3 +33,6 @@ alias 42="cd ~/Desktop/42cursus"
 
 # Clear all cash for storage spaces
 alias sweep="rm -Rfv /Library/Caches/* ~/Library/Caches/* 2> /dev/null"
+
+# Load Homebrew config script
+source $HOME/goinfre/.brewconfig.zsh
