@@ -33,6 +33,7 @@ alias 42="cd ~/goinfre/42cursus"
 
 # for VSCode
 alias code="$HOME/goinfre/home/code.sh"
+alias setup="$HOME/goinfre/home/daily_setup.sh"
 
 # Clear all cash for storage spaces
 alias sweep="rm -Rfv /Library/Caches/* ~/Library/Caches/* 2> /dev/null"
