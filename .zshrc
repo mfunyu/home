@@ -31,6 +31,9 @@ alias review="source ~/Settings/shellscript/review.sh"
 alias check="bash ~/Desktop/42cursus/FT_MINI_LS/review/diffcheck.sh"
 alias 42="cd ~/Desktop/42cursus"
 
+# for VSCode
+alias·code="$HOME/goinfre/home/code.sh"
+
 # Clear all cash for storage spaces
 alias sweep="rm -Rfv /Library/Caches/* ~/Library/Caches/* 2> /dev/null"
 
