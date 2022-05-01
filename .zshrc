@@ -40,3 +40,4 @@ alias sweep="rm -Rfv /Library/Caches/* ~/Library/Caches/* 2> /dev/null"
 
 # Load Homebrew config script
 source $HOME/goinfre/.brewconfig.zsh
+export PATH=$HOME/goinfre/.brew/bin:$PATH
