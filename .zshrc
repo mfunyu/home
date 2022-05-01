@@ -22,7 +22,7 @@ alias normerr="norminette | grep -v \"OK!\""
 alias normpdf="open ~/.norminette/pdf/ja.norm.pdf"
 
 ## Git
-alias gl="git log --online --graph"
+alias gl="git log --oneline --graph"
 
 ## 42
 export USER=mfunyu
