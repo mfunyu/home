@@ -31,13 +31,9 @@ alias review="source ~/Settings/shellscript/review.sh"
 alias check="bash ~/Desktop/42cursus/FT_MINI_LS/review/diffcheck.sh"
 alias 42="cd ~/goinfre/42cursus"
 
-# for VSCode
-alias code="$HOME/goinfre/home/code.sh"
-alias setup="$HOME/goinfre/home/daily_setup.sh"
-
 # Clear all cash for storage spaces
 alias sweep="rm -Rfv /Library/Caches/* ~/Library/Caches/* 2> /dev/null"
 
 # Load Homebrew config script
-source $HOME/goinfre/.brewconfig.zsh
-export PATH=$HOME/goinfre/.brew/bin:$PATH
+source $HOME/sgoinfre/.brewconfig.zsh
+export PATH=$HOME/sgoinfre/.brew/bin:$PATH
