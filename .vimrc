@@ -12,7 +12,6 @@ set clipboard=unnamedplus
 
 set noeol
 set tabstop=4
-#set list listchars=tab:\￫\ ,space:·
 
 inoremap { {}<LEFT>
 inoremap {<Enter> {}<Left><CR><ESC><S-o>
